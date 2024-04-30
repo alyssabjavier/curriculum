@@ -21,6 +21,8 @@ Before we dive into workflows, take a minute to remind yourself about good commi
 
 Let's say you want to contribute to [our curriculum repo](https://github.com/TheOdinProject/curriculum/).
 
+This is me contributing to the curriculum for the lesson that I am currently working through hehe
+
 How do you contribute when you do not have write access to the repository? Below is a production-ready workflow that is actually used by contributors to this website. We'll assume here that you have commented on an [open issue on our repo](https://github.com/TheOdinProject/curriculum/issues) and that it has been assigned to you. If you don't have an issue assigned to you, you can still follow along with some arbitrary updates, just stop before step 3 in the **Sending your pull request** section since your changes aren't legitimate.
 
 The key players in this story will be the `upstream` (the original GitHub repository), the `origin` (your fork of that repo), and the "local" repository (your local clone of `origin`). Think of it as a happy triangle... except that "local" can only pull from `upstream`, not push.
